@@ -110,7 +110,7 @@ afterEvaluate {
                 from(components["release"])
 
                 // ⚠️ REPLACE 'YourUsername' below with your actual GitHub username!
-                groupId = "com.github.YourUsername"
+                groupId = "com.github.Orimmrko"
                 artifactId = "variant-sdk"
                 version = "1.0.0"
             }
