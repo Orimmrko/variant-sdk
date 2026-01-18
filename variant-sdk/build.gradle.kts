@@ -101,7 +101,7 @@ afterEvaluate {
 
                 groupId = "com.github.Orimmrko"
                 artifactId = "variant-sdk"
-                version = "1.0.2" // Updated Version
+                version = "1.0.3" // Updated Version
             }
         }
     }
